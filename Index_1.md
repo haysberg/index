@@ -1,13 +1,17 @@
 # Index One
 
-The first index will give you courses to learn a your first programming language !
-We will add some other things on top like the Linux command-line, some basic networking and Git.
+The first index will give you courses to learn C++, your first programming language !
+We will add some other things on top like the Linux command-line and Git.
 
-Make sure to take your time because a lot of what we will do later will be based on concepts learnt here. You don't have to rush anything as this represents a lot of work for someone just starting.
+**Make sure to take your time** because a lot of what we will do later will be based on concepts learnt here. You don't have to rush anything as this represents a lot of work for someone just starting.
+
+Keep in mind that this first Index will take you probably several weeks or even months to understand completely. This is perfectly normal so don't give up ! If you survive the Index One the next ones will be way easier.
+
+You can learn any of the technologies below in the order you want. If you want to look for additional material to learn C++ feel free to do so !
 
 ---
 
-## __First technology : C++__
+## __First : C++__
 
 Link to the course : [learncpp.com](https://learncpp.com/)
 
@@ -17,7 +21,7 @@ To help you understand everything, and if you prefer to learn through videos, yo
 
 ---
 
-## __Second technology : Git__
+## __Second : Git__
 
 Link to the course : [Git - The simple guide](https://rogerdudler.github.io/git-guide/)
 
@@ -29,7 +33,7 @@ I recommend using the default `git` utility in your terminal at first, to learn 
 
 ---
 
-## __Third Technology : Linux__
+## __Third : Linux__
 
 Link to the course : [Linux Journey](https://linuxjourney.com/)
 
