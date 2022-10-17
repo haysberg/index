@@ -21,7 +21,7 @@ sudo apt install build-essential
 Download VSCode [here](https://code.visualstudio.com/) (.deb format)
 
 
-Setup the C++ Extension using the [following guide](https://code.visualstudio.com/docs/languages/cpp)
+Setup the C++ Extension using the [following guide](https://code.visualstudio.com/docs/languages/cpp) (You don't need to install MinGW, you already have a compiler)
 
 
 If you don't already have `git`, install it with the following command :
