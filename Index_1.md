@@ -1,4 +1,4 @@
-# Index One
+# Index One : Basics of programming & Linux
 
 The first index will give you courses to learn C++, your first programming language !
 We will add some other things on top like the Linux command-line and Git.
