@@ -1,4 +1,4 @@
-# Index One
+# Index One : Basics of programming & Linux
 
 The first index will give you courses to learn C++, your first programming language !
 We will add some other things on top like the Linux command-line and Git.
@@ -6,8 +6,6 @@ We will add some other things on top like the Linux command-line and Git.
 A good video course to follow while you do this Index : [Modern C++](https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)
 
 The course will teach you about the basics of using Linux. The commands used in the course are the same that you will use in Linux Mint so don't be afraid if you don't run Ubuntu.
-
-You will also learn C++ on Linux which is a very big plus.
 
 **Make sure to take your time** because a lot of what we will do later will be based on concepts learnt here. You don't have to rush anything as this represents a lot of work for someone just starting.
 
@@ -22,8 +20,6 @@ You can learn any of the technologies below in the order you want. If you want t
 Link to the course : [learncpp.com](https://learncpp.com/)
 
 Please finish the first 20 chapters, at your own pace. The last chapters are optional and we don't recommend them right now. You can always come back and check them if you want to get even better at C++, but is is not useful for us at this stage.
-
-To help you understand everything, and if you prefer to learn through videos, you can check the following course : [TODO]
 
 Once you feel pretty confident, try to do the following assignment : [Index One Final Project](https://github.com/haysberg/index/blob/main/assignments/Index_1/final_assignment.pdf)
 
